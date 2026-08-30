@@ -1,0 +1,13 @@
+{
+  "name": "el-faris-amirican",
+  "version": "1.0.0",
+  "description": "El Faris Amirican Contracting Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
